@@ -7,7 +7,7 @@
 
   <div>
     <a href="https://github.com/zzkuner/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true%C2%A0%C2%A0%E7%9C%9F&vCenter=true%C2%A0%C2%A0%E7%9C%9F&repeat=true%C2%A0%C2%A0%E7%9C%9F&random=false%C2%A0%C2%A0%E5%81%87&width=435&lines=Hi+there+%2CI'm+zzkuner%F0%9F%91%8B;Welcome+to+my+homepage~;Nice+to+meet+you+!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%2C+I'm+zzkuner;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AFzzkuner;Welcome+to+my+homepage~;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5~;Nice+to+meet+you%EF%BC%81;%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E4%BD%A0%EF%BC%81" alt="Typing SVG" />
     </a>
   </div>
 
@@ -17,42 +17,42 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/github-image.png" height="550px"/>
     <img src="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/github-image.png" />
   </picture>
-  
+
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://t.me/zzkuner/"><img src="https://img.shields.io/badge/Telegram-电报-blue" /></a>&emsp;
+    <a href="https://blog.kun.ee/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://x.com/zzkuner/"><img src="https://img.shields.io/badge/X-推特-ff69b4" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <img src="https://komarev.com/ghpvc/?username=zzkuner&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+
   </div>
 
-    <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+    
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzkuner/zzkuner/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zzkuner/zzkuner/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzkuner/zzkuner/output/github-contribution-grid-snake.svg">
   </picture>
-  
+  <!-- star 和 语言 -->
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zzkuner&show_icons=true&theme=transparent" alt="GitHub Stats" style="height: 180px; object-fit: contain;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzkuner&layout=compact" alt="Top Languages" style="height: 180px; object-fit: contain;">
 </div>
 
-##代码统计
-![](https://github-readme-stats.vercel.app/api?username=zzkuner&show_icons=true&theme=transparent)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzkuner&layout=compact&theme=tokyonight)
+<div align="center">
+  <!-- 尾图 -->
+![zzkuner](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=zzkuner&height=150&fontSize=60&desc=Just%20Do%20It&descAlignY=75&descAlign=60)
+</div>
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=zzkuner&theme=dracula)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=zzkuner&theme=dracula)
 
-
-<!--你是我的第![Visitor Count](https://profile-counter.glitch.me/zzkuner/count.svg)位访客，欢迎常来逛逛！
+<!--
 **zzkuner/zzkuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

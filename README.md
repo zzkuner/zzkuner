@@ -12,7 +12,7 @@
   <!--插入图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/image.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/image.png" height="20%"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/image.png" height="180px"/>
     <img src="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/image.png" />
   </picture>
 

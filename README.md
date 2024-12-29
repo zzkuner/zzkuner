@@ -1,16 +1,47 @@
+<!-- 注释开始的图片 
 ![zzkuner](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Kun&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+-->
 
 <div align="center">
-
 <!-- 打字特效 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true%C2%A0%C2%A0%E7%9C%9F&vCenter=true%C2%A0%C2%A0%E7%9C%9F&repeat=true%C2%A0%C2%A0%E7%9C%9F&random=false%C2%A0%C2%A0%E5%81%87&width=435&lines=Hi+there+%2CI'm+zzkuner%F0%9F%91%8B;Welcome+to+my+homepage~;Nice+to+meet+you+!)](https://git.io/typing-svg)
 
+  <div>
+    <a href="https://github.com/zzkuner/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true%C2%A0%C2%A0%E7%9C%9F&vCenter=true%C2%A0%C2%A0%E7%9C%9F&repeat=true%C2%A0%C2%A0%E7%9C%9F&random=false%C2%A0%C2%A0%E5%81%87&width=435&lines=Hi+there+%2CI'm+zzkuner%F0%9F%91%8B;Welcome+to+my+homepage~;Nice+to+meet+you+!" />
+    </a>
+  </div>
+
+  <!--插入图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/github-image.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/github-image.png" height="550px"/>
+    <img src="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/github-image.png" />
+  </picture>
+  
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+  </div>
+
+    <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+  
 </div>
-
-![snake](./assets/github-contribution-grid-snake.svg)
-
-![Metrics](https://metrics.lecoq.io/zzkuner?template=classic&languages=1&calendar=1&starlists=1&lines=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&calendar=false&calendar.limit=1&config.timezone=Etc%2FGMT-8)
-
 
 ##代码统计
 ![](https://github-readme-stats.vercel.app/api?username=zzkuner&show_icons=true&theme=transparent)

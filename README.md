@@ -13,9 +13,9 @@
 
   <!--插入图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/github-image.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/github-image.png" height="550px"/>
-    <img src="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/github-image.png" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/image.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/image.png" height="255px"/>
+    <img src="https://cdn.jsdelivr.net/gh/zzkuner/zzkuner/assets/image.png" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -48,7 +48,9 @@
 
 <div align="center">
   <!-- 尾图 -->
-![zzkuner](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=zzkuner&height=150&fontSize=60&desc=Just%20Do%20It&descAlignY=75&descAlign=60)
+  
+![zzkuner](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=zzkuner&height=150&fontSize=60&desc=JUST%20DO%20IT&descAlignY=75&descAlign=60)
+
 </div>
 
 

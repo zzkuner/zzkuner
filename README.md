@@ -43,11 +43,11 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zzkuner/zzkuner/output/github-contribution-grid-snake.svg">
   </picture>
   
-  <!-- star 和 语言 -->
+  <!-- star 和 语言 --><!--
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=zzkuner&show_icons=true&theme=transparent" alt="GitHub Stats" style="height: 180px; object-fit: contain;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzkuner&layout=compact&theme=transparent" alt="Top Languages" style="height: 180px; object-fit: contain;">
-  </div>
+  </div>-->
 
 </div>
 
